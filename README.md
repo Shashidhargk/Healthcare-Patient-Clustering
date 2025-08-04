@@ -53,4 +53,3 @@ Cluster profiling table showing mean symptom values for each cluster
 📌 Dataset
 The project uses the UCI Heart Disease dataset, fetched automatically via ucimlrepo.
 
-Ask ChatGPT
